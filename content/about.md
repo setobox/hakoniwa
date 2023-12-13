@@ -1,3 +1,11 @@
-# About Content v2
+---
+title: About - Setobox
+display: About
+description: About
+
+navigation:
+  title: 'About'
+  sort: 5
+---
 
 [Back home](/)
