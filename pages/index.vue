@@ -20,7 +20,10 @@
       <div>
         2023-PRESENT © SETOBOX
       </div>
-      <a href="https://icp.gov.moe/?keyword=20232190" target="_blank">萌ICP备20232190号</a>
+      <span flex="~ gap-4">
+        <a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备20235625号</a>
+        <a href="https://icp.gov.moe/?keyword=20232190" target="_blank">萌ICP备20232190号</a>
+      </span>
     </div>
   </div>
 </template>
